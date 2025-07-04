@@ -52,7 +52,7 @@ MARS performs key agricultural tasks including soil testing, sowing, weeding, an
 - Its lightweight and energy-efficient design minimized environmental impact and power consumption.
 - The system demonstrated potential for scalability and customization based on crop types and field size.
 
-## Future Enhancements
+## Future Improvements
 
 - Add AI-based crop monitoring using deep learning.
 - Modularize the robot to allow farmers to use specific units (e.g., sowing or weeding) independently.
