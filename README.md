@@ -14,7 +14,7 @@ MARS performs key agricultural tasks including soil testing, sowing, weeding, an
 - Integrate multiple agricultural functions into a single, modular robot.
 - Make precision farming accessible to small and marginal farmers in India.
 
-## Key Features
+## Features
 
 - Raspberry Pi 4B serves as the main microcontroller.
 - DHT11 and EZO pH sensors for real-time soil and environment monitoring.
@@ -43,7 +43,7 @@ MARS performs key agricultural tasks including soil testing, sowing, weeding, an
 - **Microcontroller**: Raspberry Pi 4B  
 - **Sensors**: DHT11 (temperature & humidity), EZO pH, soil moisture sensor  
 - **Motors**: 12V DC gear motors (mobility), MG996R servo motors (task execution)  
-- **Software Stack**: Python, OpenCV, Machine Learning (SVM, CNN), Tinkercad and MSC Adams (CAD)
+- **Software Stack**: Python, OpenCV, Machine Learning (SVM, CNN), TinkerCAD and MSC Adams (CAD)
 
 ## Results
 
